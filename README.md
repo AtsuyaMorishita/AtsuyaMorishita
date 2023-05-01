@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm a web frontend engineer</h1>
-- 🌱 I’m currently learning **React,Next.js,TypeScript**
+## I'm a web frontend engineer
+
+🌱 I’m currently learning React,Next.js,TypeScript
 
 ## Skills
+
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
@@ -140,4 +142,3 @@
     />
   </a>
 </p>
-# AtsuyaMorishita
